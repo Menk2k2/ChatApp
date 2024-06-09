@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "";
+}
+
+<h4 id="serverStatus">Đang khởi động...</h4>
+<script>
+    try {
+        var connection = null;
+
+        let localConnection = window.$.hubConnection("https://localhost:44332/");
+        var hubProxy = localConnection.createHubProxy('chathub');
+
+        // Khởi động server
+        localConnection.start()
+            .done(function () {
+                $("#serverStatus").html('Khởi động server thành công');
+                console.log('Now connected, connection ID=' + localConnection.id);
+            })
+            .fail(function () {
+                console.log("Could not connect");
+            });
+
+        connection = localConnection;
+    } catch (error) {
+        console.log(error);
+    }
+</script>

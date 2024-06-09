@@ -1,0 +1,114 @@
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\SalesManagemenet.exe.config
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\SalesManagemenet.exe
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\SalesManagemenet.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\BUS.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\DAL.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\DTO.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\Guna.UI2.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\BUS.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\DAL.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\bin\Debug\DTO.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmAccount.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmBill.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmBillInfo.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmCustomer.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmEmployee.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmLogin.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmMain.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmProduct.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\SalesManagemenet.exe
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\SalesManagemenet.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\GUI\obj\Debug\GUI.frmNguyenLieu.resources
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.exe.config
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.exe
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\BUS.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\DAL.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\DTO.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\Guna.UI2.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\BUS.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\DAL.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\DTO.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.frmAccount.resources
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.frmLogin.resources
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.frmMain.resources
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\SalesManagemenet.exe
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\SalesManagemenet.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.frmChat.resources
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\obj\Debug\GUI.frmStart.resources
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\GUI\bin\Debug\Newtonsoft.Json.xml
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.exe.config
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.exe
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.pdb
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\BUS.dll
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\DAL.dll
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\DTO.dll
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\Guna.Charts.WinForms.dll
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\Guna.UI2.dll
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\Newtonsoft.Json.dll
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\BUS.pdb
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\DAL.pdb
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\DTO.pdb
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\KLTN\ChatAppInternal\GUI\bin\Debug\Newtonsoft.Json.xml
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.frmAccount.resources
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.frmStart.resources
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.frmChat.resources
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.frmLogin.resources
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.frmMain.resources
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\SalesManagemenet.exe
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\SalesManagemenet.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.exe.config
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.exe
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\SalesManagemenet.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\BUS.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\DAL.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\DTO.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\Guna.Charts.WinForms.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\Guna.UI2.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\BUS.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\DAL.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\DTO.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.frmAccount.resources
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.frmStart.resources
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.frmChat.resources
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.frmLogin.resources
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.frmMain.resources
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\SalesManagemenet.exe
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\SalesManagemenet.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\GUI\obj\Debug\GUI.frmUpdateGroup.resources
+E:\KLTN\ChatAppInternal\GUI\obj\Debug\GUI.frmUpdateGroup.resources

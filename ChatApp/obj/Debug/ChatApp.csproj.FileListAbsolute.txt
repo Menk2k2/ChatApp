@@ -1,0 +1,579 @@
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\ChatApp.dll.config
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\ChatApp.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\ChatApp.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\csc.exe
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\csc.exe.config
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\csc.rsp
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\csi.exe
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\csi.exe.config
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\csi.rsp
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.AppContext.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Console.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.IO.Compression.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.IO.FileSystem.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Net.Http.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Net.Sockets.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.ValueTuple.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Xml.XPath.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\vbc.exe
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\vbc.exe.config
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\vbc.rsp
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\VBCSCompiler.exe
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Antlr3.Runtime.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\EntityFramework.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\EntityFramework.SqlServer.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.Google.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Newtonsoft.Json.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Owin.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.Helpers.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.Mvc.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.Optimization.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.Razor.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.WebPages.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.WebPages.Razor.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\WebGrease.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.Helpers.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.Mvc.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.Optimization.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.Razor.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.WebPages.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Web.WebPages.Razor.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Newtonsoft.Json.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Antlr3.Runtime.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\EntityFramework.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\EntityFramework.SqlServer.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.Google.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\obj\Debug\ChatApp.csproj.CopyComplete
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\obj\Debug\ChatApp.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\obj\Debug\ChatApp.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\GridMvc.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Mvc.Grid.Core.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Authorization.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Routing.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.SignalR.Common.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.SignalR.Core.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.SignalR.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.WebSockets.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.ObjectPool.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Options.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Primitives.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Net.Http.Headers.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Buffers.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.ComponentModel.Annotations.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.IO.Pipelines.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Memory.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Net.WebSockets.WebSocketProtocol.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Numerics.Vectors.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Security.Principal.Windows.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Text.Encodings.Web.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Threading.Channels.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Threading.Tasks.Extensions.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Authorization.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Routing.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.SignalR.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.SignalR.Common.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.SignalR.Core.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.WebSockets.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.ObjectPool.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Options.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Extensions.Primitives.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.Net.Http.Headers.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Buffers.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.IO.Pipelines.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Memory.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Numerics.Vectors.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Text.Encodings.Web.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Threading.Channels.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\System.Threading.Tasks.Extensions.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatHubWithEntity\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\KLTN\ChatApp\bin\ChatApp.dll.config
+E:\KLTN\ChatApp\bin\ChatApp.dll
+E:\KLTN\ChatApp\bin\ChatApp.pdb
+E:\KLTN\ChatApp\bin\roslyn\csc.exe
+E:\KLTN\ChatApp\bin\roslyn\csc.exe.config
+E:\KLTN\ChatApp\bin\roslyn\csc.rsp
+E:\KLTN\ChatApp\bin\roslyn\csi.exe
+E:\KLTN\ChatApp\bin\roslyn\csi.exe.config
+E:\KLTN\ChatApp\bin\roslyn\csi.rsp
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\KLTN\ChatApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\KLTN\ChatApp\bin\roslyn\System.AppContext.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Console.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Globalization.Calendars.dll
+E:\KLTN\ChatApp\bin\roslyn\System.IO.Compression.dll
+E:\KLTN\ChatApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\KLTN\ChatApp\bin\roslyn\System.IO.FileSystem.dll
+E:\KLTN\ChatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Net.Http.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Net.Sockets.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\KLTN\ChatApp\bin\roslyn\System.ValueTuple.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Xml.XPath.dll
+E:\KLTN\ChatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\KLTN\ChatApp\bin\roslyn\vbc.exe
+E:\KLTN\ChatApp\bin\roslyn\vbc.exe.config
+E:\KLTN\ChatApp\bin\roslyn\vbc.rsp
+E:\KLTN\ChatApp\bin\roslyn\VBCSCompiler.exe
+E:\KLTN\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+E:\KLTN\ChatApp\bin\Antlr3.Runtime.dll
+E:\KLTN\ChatApp\bin\EntityFramework.dll
+E:\KLTN\ChatApp\bin\EntityFramework.SqlServer.dll
+E:\KLTN\ChatApp\bin\GridMvc.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Authorization.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Routing.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.SignalR.Common.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.SignalR.Core.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.SignalR.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.WebSockets.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\KLTN\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.ObjectPool.dll
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Options.dll
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Primitives.dll
+E:\KLTN\ChatApp\bin\Microsoft.Net.Http.Headers.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.Google.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\KLTN\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+E:\KLTN\ChatApp\bin\Mvc.Grid.Core.dll
+E:\KLTN\ChatApp\bin\Newtonsoft.Json.dll
+E:\KLTN\ChatApp\bin\Owin.dll
+E:\KLTN\ChatApp\bin\System.Buffers.dll
+E:\KLTN\ChatApp\bin\System.ComponentModel.Annotations.dll
+E:\KLTN\ChatApp\bin\System.IO.Pipelines.dll
+E:\KLTN\ChatApp\bin\System.Memory.dll
+E:\KLTN\ChatApp\bin\System.Net.WebSockets.WebSocketProtocol.dll
+E:\KLTN\ChatApp\bin\System.Numerics.Vectors.dll
+E:\KLTN\ChatApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\KLTN\ChatApp\bin\System.Security.Principal.Windows.dll
+E:\KLTN\ChatApp\bin\System.Text.Encodings.Web.dll
+E:\KLTN\ChatApp\bin\System.Threading.Channels.dll
+E:\KLTN\ChatApp\bin\System.Threading.Tasks.Extensions.dll
+E:\KLTN\ChatApp\bin\System.Web.Helpers.dll
+E:\KLTN\ChatApp\bin\System.Web.Mvc.dll
+E:\KLTN\ChatApp\bin\System.Web.Optimization.dll
+E:\KLTN\ChatApp\bin\System.Web.Razor.dll
+E:\KLTN\ChatApp\bin\System.Web.WebPages.Deployment.dll
+E:\KLTN\ChatApp\bin\System.Web.WebPages.dll
+E:\KLTN\ChatApp\bin\System.Web.WebPages.Razor.dll
+E:\KLTN\ChatApp\bin\WebGrease.dll
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Authorization.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Routing.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.SignalR.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.SignalR.Common.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.SignalR.Core.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.WebSockets.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.ObjectPool.xml
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Options.xml
+E:\KLTN\ChatApp\bin\Microsoft.Extensions.Primitives.xml
+E:\KLTN\ChatApp\bin\Microsoft.Net.Http.Headers.xml
+E:\KLTN\ChatApp\bin\System.Buffers.xml
+E:\KLTN\ChatApp\bin\System.IO.Pipelines.xml
+E:\KLTN\ChatApp\bin\System.Memory.xml
+E:\KLTN\ChatApp\bin\System.Numerics.Vectors.xml
+E:\KLTN\ChatApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\KLTN\ChatApp\bin\System.Text.Encodings.Web.xml
+E:\KLTN\ChatApp\bin\System.Threading.Channels.xml
+E:\KLTN\ChatApp\bin\System.Threading.Tasks.Extensions.xml
+E:\KLTN\ChatApp\bin\System.Web.Helpers.xml
+E:\KLTN\ChatApp\bin\System.Web.Mvc.xml
+E:\KLTN\ChatApp\bin\System.Web.Optimization.xml
+E:\KLTN\ChatApp\bin\System.Web.Razor.xml
+E:\KLTN\ChatApp\bin\System.Web.WebPages.xml
+E:\KLTN\ChatApp\bin\System.Web.WebPages.Deployment.xml
+E:\KLTN\ChatApp\bin\System.Web.WebPages.Razor.xml
+E:\KLTN\ChatApp\bin\Newtonsoft.Json.xml
+E:\KLTN\ChatApp\bin\Antlr3.Runtime.pdb
+E:\KLTN\ChatApp\bin\EntityFramework.xml
+E:\KLTN\ChatApp\bin\EntityFramework.SqlServer.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\KLTN\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.Google.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\KLTN\ChatApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\KLTN\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\KLTN\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+E:\KLTN\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+E:\KLTN\ChatApp\obj\Debug\ChatApp.csproj.CopyComplete
+E:\KLTN\ChatApp\obj\Debug\ChatApp.dll
+E:\KLTN\ChatApp\obj\Debug\ChatApp.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\ChatApp.dll.config
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\ChatApp.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\ChatApp.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\csc.exe
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\csc.exe.config
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\csc.rsp
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\csi.exe
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\csi.exe.config
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\csi.rsp
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.AppContext.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Console.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.IO.Compression.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.IO.FileSystem.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Net.Http.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Net.Sockets.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.ValueTuple.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Xml.XPath.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\vbc.exe
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\vbc.exe.config
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\vbc.rsp
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\VBCSCompiler.exe
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Antlr3.Runtime.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\EntityFramework.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\EntityFramework.SqlServer.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\GridMvc.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Authorization.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Routing.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.SignalR.Common.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.SignalR.Core.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.SignalR.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.WebSockets.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.ObjectPool.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Options.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Primitives.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Net.Http.Headers.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.Google.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Mvc.Grid.Core.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Newtonsoft.Json.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Owin.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Buffers.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.ComponentModel.Annotations.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.IO.Pipelines.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Memory.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Net.WebSockets.WebSocketProtocol.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Numerics.Vectors.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Security.Principal.Windows.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Text.Encodings.Web.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Threading.Channels.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Threading.Tasks.Extensions.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.Helpers.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.Mvc.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.Optimization.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.Razor.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.WebPages.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.WebPages.Razor.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\WebGrease.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Authorization.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Routing.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.SignalR.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.SignalR.Common.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.SignalR.Core.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.WebSockets.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.ObjectPool.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Options.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Extensions.Primitives.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Net.Http.Headers.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Buffers.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.IO.Pipelines.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Memory.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Numerics.Vectors.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Text.Encodings.Web.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Threading.Channels.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Threading.Tasks.Extensions.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.Helpers.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.Mvc.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.Optimization.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.Razor.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.WebPages.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\System.Web.WebPages.Razor.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Newtonsoft.Json.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Antlr3.Runtime.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\EntityFramework.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\EntityFramework.SqlServer.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.Google.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\obj\Debug\ChatApp.csproj.AssemblyReference.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\obj\Debug\ChatApp.csproj.Up2Date
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\obj\Debug\ChatApp.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatApp\obj\Debug\ChatApp.pdb

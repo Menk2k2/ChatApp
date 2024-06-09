@@ -1,0 +1,24 @@
+D:\DoAn\05.long\SalesManagement\SalesManagement\DTO\bin\Debug\DTO.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\DTO\bin\Debug\DTO.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DoAn\05.long\SalesManagement\SalesManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DoAn\05.long\SalesManagement\SalesManagement\DTO\obj\Debug\DTO.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\DTO\obj\Debug\DTO.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\DTO\bin\Debug\DTO.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\DTO\bin\Debug\DTO.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\DTO\obj\Debug\DTO.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\DTO\obj\Debug\DTO.pdb
+E:\KLTN\ChatAppInternal\DTO\bin\Debug\DTO.dll
+E:\KLTN\ChatAppInternal\DTO\bin\Debug\DTO.pdb
+E:\KLTN\ChatAppInternal\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\KLTN\ChatAppInternal\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\KLTN\ChatAppInternal\DTO\obj\Debug\DTO.dll
+E:\KLTN\ChatAppInternal\DTO\obj\Debug\DTO.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\DTO\bin\Debug\DTO.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\DTO\bin\Debug\DTO.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\DTO\obj\Debug\DTO.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\DTO\obj\Debug\DTO.pdb

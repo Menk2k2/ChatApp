@@ -1,0 +1,85 @@
+﻿@using EnglishCenter.Models
+@model  EnglishCenter.Models.AccountViewModel
+@{
+    ViewBag.Title = ViewBag.Id == 0 ? "<i class='fa fa-user-plus'></i> Thêm tài khoản" : "<i class='fa fa-user-tie'></i> Sửa tài khoản <span style='color: red;'>" + Model.Email + "<span>";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    ViewBag.Menu = "Thêm/Sửa thông tin tài khoản";
+    string button = ViewBag.Id == 0 ? "Thêm mới" : "Cập nhật";
+
+    EnglishCenterEntities db = new EnglishCenterEntities();
+    var user = db.AspNetUsers.Find(Model.Id);
+}
+
+<section class="content" data-activemenu="menu-manage-accounts">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 px-0">
+                <div class="card card-default card-outline">
+                    <div class="card-header">
+                        <h3 class="card-title">Thông tin tài khoản</h3>
+                    </div>
+                    <div class="card-body">
+                        @using (Html.BeginForm())
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.HiddenFor(model => model.Id)
+
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.PhoneNumber, htmlAttributes: new { @class = "control-label col-md-10 pl-0" })
+                                @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.FullName, htmlAttributes: new { @class = "control-label col-md-10 pl-0" })
+                                @Html.EditorFor(model => model.FullName, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.FullName, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-10 pl-0" })
+                                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                            </div>
+                            if (ViewBag.Id == null || ViewBag.Id == 0)
+                            {
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-10 pl-0" })
+                                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "control-label col-md-10 pl-0" })
+                                    @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="form-group">
+                                    <label class="control-label col-md-10 pl-0" for="Password">Mật khẩu</label>
+                                    <input class="input-validation-error form-control text-box single-line password" readonly value="@user.PasswordHash" data-val="true" data-val-length="Mật khẩu phải chứa ít nhất 6 ký tự, 1 ký tự in hoa và 1 ký tự đặc biệt, ví dụ: EnglishCenter@2024" data-val-length-max="100" data-val-length-min="6" data-val-required="The Mật khẩu field is required." id="Password" name="Password" type="password">
+                                </div>
+                                <div class="form-group d-none">
+                                    <label class="control-label col-md-10 pl-0" for="ConfirmPassword">Nhập lại mật khẩu</label>
+                                    <input class="form-control text-box single-line password" readonly value="@user.PasswordHash" data-val="true" data-val-equalto="Mật khẩu mới và mật khẩu xác nhận không khớp." data-val-equalto-other="*.Password" id="ConfirmPassword" name="ConfirmPassword" type="password">
+                                </div>
+                            }
+
+                            <div class="form-group">
+                                <input type="submit" value="@button" class="btn btn-primary" />
+                            </div>
+                        }
+
+                    </div>
+                    <div class="card-footer">
+                        @Html.ActionLink("Quay lại danh sách", "Accounts")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

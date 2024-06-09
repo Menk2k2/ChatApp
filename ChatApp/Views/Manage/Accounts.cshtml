@@ -1,0 +1,135 @@
+﻿@using EnglishCenter.Models
+@model IEnumerable<AspNetUser>
+@{
+    ViewBag.Title = "<i class='fa fa-user'></i> Quản lý tài khoản";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Menu = "Tài khoản";
+}
+<link rel="stylesheet" href="/Content/MvcGrid/mvc-grid.css">
+<section class="content" data-activemenu="menu-manage-account">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="card card-default card-outline">
+                    <div class="card-header">
+                        <h3 class="card-title">Danh sách tài khoản</h3>
+                        <div class="card-tools">
+                            <form action="/Manage/Accounts" method="get" id="searchForm">
+                                <div class="input-group input-group-sm">
+                                    <input type="text" class="form-control" name="search" value="@ViewBag.Search" placeholder="Tìm tài khoản" id="timTk">
+                                    <div class="input-group-append mr-2" id="btnTimTk">
+                                        <div class="btn btn-sm btn-info">
+                                            <i class="fas fa-search"></i>
+                                        </div>
+                                    </div>
+                                    &nbsp;
+                                    @Html.ActionLink("Tạo tài khoản", "AccountEdit", new { }, new { @class = "btn btn-sm btn-primary" })
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        @(Html.Grid(Model).Build(columns => {
+                            columns.Add(model => model.Id).Hidden();
+                            columns.Add().RenderedAs((model, row) => row + 1).Titled("Stt").Css("text-center");
+                            columns.Add(model => model.UserName).Titled("UserName");
+                            columns.Add(model => model.FullName).Titled("Tên đầy đủ");
+                            columns.Add(model => model.Email).Titled("Email");
+                            columns.Add(model => "<a class='btn btn-xs btn-warning' href='" + Url.Action("AccountEdit", new { id = model.Id }) + "'><i class='fa fa-edit'></i></a>").Titled("Sửa").Encoded(false).Css("dt-nowrap width25p");
+                            columns.Add(model => (!model.LockoutEnabled ? "<a class='btn btn-xs btn-warning' href='#' onclick='return setEntryOn(\"" + model.Id + "\", 1)'><i class='fa fa-lock'></i></a>" : "<a class='btn btn-xs btn-danger' href='#' onclick='return setEntryOn(\"" + model.Id + "\", 0)'><i class='fa fa-lock'></i></a>")).Titled("Khóa").Encoded(false).Css("dt-nowrap width25p");
+                            columns.Add(model => "<a class='btn btn-xs btn-warning' href='#' onclick='return resetPassword(\"" + model.Id + "\", 0)'><i class='fa fa-key'></i></a>").Titled("Reset PW").Encoded(false).Css("dt-nowrap width25p");
+                            columns.Add(model => "<a class='btn btn-xs btn-danger' href='#' onclick='return delEntry(\"" + model.Id + "\")'><i class='fa fa-times-circle'></i></a>").Titled("Xóa").Encoded(false).Css("dt-nowrap width25p");
+                        }).Empty("Chưa có dữ liệu").Filterable().Sortable().Pageable(pager => {
+                            pager.ShowPageSizes = false;
+                            pager.PagesToDisplay = 5;
+                            pager.CurrentPage = 1;
+                            pager.RowsPerPage = 20;
+                        }).Css("css-classes").AppendCss("table-hover"))
+                    </div>
+                    <div class="card-footer">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section scripts {
+    <script src="/Scripts/MvcGrid/mvc-grid.js"></script>
+    <script>
+        [].forEach.call(document.getElementsByClassName('mvc-grid'), function (element) {
+            new MvcGrid(element);
+        });
+
+        $(document).ready(function () {
+            $("#btnTimTk").on('click', function () {
+                $("#searchForm").submit();
+            });
+        });
+
+        function resetPassword(eId) {
+            bootbox.confirm("Mật khẩu sau khi thiết lập lại (reset) sẽ là 'EnglishCenter@2024'. Bạn có chắc chắn muốn reset ?", function(result) {
+                if (result) {
+                      $.ajax({
+                          type: "POST",
+                          data: JSON.stringify({
+                              id: eId
+                          }),
+                          url: "@Url.Action("ResetPassword", "Manage")",
+                          contentType: 'application/json; charset=utf-8',
+                          success: function (d) {
+                              bootbox.alert("Reset thành công. Mật khẩu mới là: 'EnglishCenter@2024'.");
+                          },
+                          error: function(xhr, textStatus, errorThrown) {
+                              bootbox.alert("Đã xảy ra lỗi, phiền bạn hãy thực hiện lại!");
+                          }
+                      });
+                  } else {
+                      return;
+                  }
+              });
+        }
+
+        function setEntryOn(eId, st) {
+            bootbox.confirm('Bạn chắc chắn duyệt trạng thái này?', function(result) {
+                if (result) {
+                    $.ajax({
+                        type: "POST",
+                        data: JSON.stringify({
+                            id: eId,
+                            status: st
+                        }),
+                        url: "@Url.Action("Lockout", "Manage")",
+                        contentType: 'application/json; charset=utf-8',
+                        success: function (d) {
+                              location.reload();
+                        },
+                        error: function(xhr, textStatus, errorThrown) {
+                            bootbox.alert("Đã xảy ra lỗi, phiền bạn hãy thực hiện lại!");
+                        }
+                    });
+                } else {
+                    return;
+                }
+            });
+        }
+
+        function delEntry(eId) {
+          if (confirm('Bạn chắc chắn xóa tài khoản này và các thông tin liên quan?')) {
+              $.ajax({
+                      url: "@Url.Action("Delete", "Manage")",
+                      type: "POST",
+                      data: jQuery.param({ id: eId}) ,
+
+                      contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                      success: function(d) {
+                          location.reload();
+                      },
+                      error: function(xhr, textStatus, errorThrown) {
+                          alert("Đã xảy ra lỗi, phiền bạn hãy thực hiện lại!");
+                      }
+                    });
+           }
+        }
+    </script>
+}

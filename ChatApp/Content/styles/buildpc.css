@@ -1,0 +1,274 @@
+﻿.program-name {
+    font-size: 18px;
+}
+h5 {
+    font-weight: 400;
+}
+span.gia, .price-m {
+    font-weight: bold;
+    color: red;
+}
+.table td, .table th {
+    padding: .5rem
+}
+.btn-danger-ben {
+    height: 44px;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.btn-primary {
+    background-color: #0362B4;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+    .btn-primary i.fa, .btn-primary span {
+        display: inline-block;
+    }
+
+.cardxd {
+    padding: 30px;
+}
+.card-xd-subtitle {
+    font-size: 20px;
+    font-weight: 500;
+    color: #3D3D3D;
+    margin: 20px 0 !important;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #C8C8C8;
+    display: block;
+}
+    .cardxd .block-pc.text-right, .chiPhiDuKien2 {
+        font-size: 20px;
+    }
+
+.card-xd-title {
+    background-color: #0362B4;
+    font-size: 36px;
+    font-weight: 500;
+    color: #FFF;
+    text-align: center;
+    padding: 33px 0 !important;
+    margin: 0;
+    height: 102px !important;
+    display: block;
+}
+#dsProducts, .tblsp {
+    width: 100% !important;
+}
+
+#appendPlace {
+    padding-left: 1px;
+    padding-right: 1px;
+}
+#appendPlace tr:nth-child(odd) {
+    background: #F9F9F9;
+}
+
+
+.chonlk-name {
+    width: 24%;
+    font-size: 18px;
+}
+#btnNew {
+    margin-bottom: 15px;
+}
+.chonlk a {
+    font-size: 18px;
+}
+.modallk {
+    max-width: 100vw;
+    width: calc(80vw - 20px);
+    margin: 10px auto;
+    height: calc(100vh - 20px);
+}
+    .modallk .row, .modallk .modal-body, .modallk .modal-content {
+        height: 100%;
+    }
+        .modallk .row > div {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    /*Modal*/
+    .modal-header {
+        background-color: #0362B4
+    }
+
+    .modal-header h3 {
+        color: #fff;
+        width: 33.33%;
+    }
+
+    .modal-header .form-control {
+        width: auto;
+    }
+
+    .modal-header .btn-danger {
+        height: calc(1.5em + .75rem + 2px);
+        padding: .375rem .75rem;
+        
+        margin-left: 10px;
+    }
+#buildpc-fillter-box .card-header .btn-outline-danger, #btn-show-fillter {
+    display: none;
+}
+.modallk .media {
+    width: 100%;
+}
+.modallk .media img {
+        width: 85px;
+    }
+
+#dsProducts_wrapper .row:nth-child(2) {
+    height: calc(100vh - 210px);
+    overflow-y: scroll;
+    border: 1px solid #c8c8c8;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+
+#buildpc-fillter-window {
+    height: calc(100vh - 120px);
+}
+
+    #buildpc-fillter-window .card-body {
+        height: 100%;
+        overflow-y: scroll;
+    }
+
+        #buildpc-fillter-window .card-body .form-group > a {
+            display: block;
+            position: relative;
+            text-transform: uppercase;
+            font-size: 15px;
+            margin-bottom: 1rem;
+            vertical-align: top;
+            line-height: 25px;
+        }
+
+            #buildpc-fillter-window .card-body .form-group > a:after {
+                position: absolute;
+                top: 0;
+                right: 5px;
+                content: "\f054";
+                font-family: "Font Awesome\ 5 Pro";
+                color: #3d3d3d;
+                padding-left: 3px;
+                -webkit-transform: rotate(90deg);
+                -moz-transform: rotate(90deg);
+                -o-transform: rotate(90deg);
+                -ms-transform: rotate(90deg);
+                transform: rotate(90deg);
+            }
+
+            #buildpc-fillter-window .card-body .form-group > a.collapsed:after {
+                -webkit-transform: rotate(0);
+                -moz-transform: rotate(0);
+                -o-transform: rotate(0);
+                -ms-transform: rotate(0);
+                transform: rotate(0);
+            }
+
+@media (max-width: 1199.98px) {
+    .btn-primary {
+        height: 30px;
+        padding: .375rem .75rem;
+    }
+    .card.card-default {
+        border: none;
+    }
+    .cardxd {
+        padding: 0;
+        border: 0;
+    }
+    #btnNew {
+        color: #E91C1C;
+        border: none !important;
+        background: none;
+        float: right;
+        margin-bottom: 0;
+    }
+    .btn-primary span, #btnCart, .chiPhiDuKien2 {
+        display: none;
+    }
+    .btn-primary, .chonlk-name, .btn-danger, #btnNew {
+        font-size: 13px;
+    }
+    .btn-danger {
+        height: 35px;
+        padding: .375rem .75rem;
+        background-color: #0362b4;
+        border: none;
+    }
+    .btn-removeitem, .btn-additem {
+        float: right;
+    }
+    .modallk {
+        width: calc(100vw - 20px);
+    }
+    .modal-header {
+        display: block;
+        position: relative;
+        padding: 0.5rem;
+    }
+        .modal-header h3 {
+            width: calc(100% - 50px);
+            height: 40px;
+            padding-top: 10px;
+        }
+        .modal-header .btn-secondary {
+            width: 30px;
+            height: 30px;
+            position: absolute;
+            top: .5rem;
+            right: .5rem;
+            padding: 4px;
+        }
+
+    .modal-header .form-control {
+        width: 100%;
+    }
+
+    #buildpc-fillter-box .card-header .btn-outline-danger, #btn-show-fillter {
+        display: block;
+    }
+
+    #buildpc-fillter-window {
+        border: 1px solid #c8c8c8;
+        position: fixed;
+        top: 0;
+        right: 0;
+        z-index: 2;
+        width: 70vw;
+        display: none;
+        z-index: 1051;
+        height: 100%
+    }
+    #buildpc-fillter-window .card-body {
+        height: calc(100% - 86px);
+        overflow-y: scroll;
+    }
+
+    #buildpc-fillter-window.show {
+        display: block;
+    }
+    #card-filter {
+        height: calc(100% - 85px);
+        overflow-y: scroll;
+    }
+    .modallk .media img {
+        width: 65px;
+    }
+    .modallk .modal-body .row > div {
+        padding: 0;
+    }
+    #dsProducts_wrapper .row:nth-child(2) {
+        height: calc(100vh - 260px);
+        overflow-y: scroll;
+        border: 1px solid #c8c8c8;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+}

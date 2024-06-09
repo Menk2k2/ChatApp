@@ -1,0 +1,44 @@
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\bin\Debug\BUS.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\bin\Debug\BUS.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\bin\Debug\DAL.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\bin\Debug\DTO.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\bin\Debug\DAL.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\bin\Debug\DTO.pdb
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\obj\Debug\BUS.dll
+D:\DoAn\05.long\SalesManagement\SalesManagement\BUS\obj\Debug\BUS.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\bin\Debug\BUS.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\bin\Debug\BUS.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\bin\Debug\DAL.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\bin\Debug\DTO.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\bin\Debug\DAL.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\bin\Debug\DTO.pdb
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\obj\Debug\BUS.dll
+D:\DoAn\12. Lê Quang Mạnh - K64\ChatAppInternal\BUS\obj\Debug\BUS.pdb
+E:\KLTN\ChatAppInternal\BUS\bin\Debug\BUS.dll
+E:\KLTN\ChatAppInternal\BUS\bin\Debug\BUS.pdb
+E:\KLTN\ChatAppInternal\BUS\bin\Debug\DAL.dll
+E:\KLTN\ChatAppInternal\BUS\bin\Debug\DTO.dll
+E:\KLTN\ChatAppInternal\BUS\bin\Debug\DAL.pdb
+E:\KLTN\ChatAppInternal\BUS\bin\Debug\DTO.pdb
+E:\KLTN\ChatAppInternal\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\KLTN\ChatAppInternal\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\KLTN\ChatAppInternal\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\KLTN\ChatAppInternal\BUS\obj\Debug\BUS.dll
+E:\KLTN\ChatAppInternal\BUS\obj\Debug\BUS.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\bin\Debug\BUS.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\bin\Debug\BUS.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\bin\Debug\DAL.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\bin\Debug\DTO.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\bin\Debug\DAL.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\bin\Debug\DTO.pdb
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\obj\Debug\BUS.dll
+D:\MaiA\Doan\LeQuanManh-Chat-winform-app\ChatAppInternal\BUS\obj\Debug\BUS.pdb

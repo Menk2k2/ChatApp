@@ -1,0 +1,81 @@
+﻿<nav class="mt-2">
+    <ul class="nav nav-pills nav-sidebar flex-column nav-flat" data-widget="treeview" role="menu" data-accordion="false">
+        <li class="nav-item has-treeview">
+            <a href="@Url.Action("Index", "Home")" data-s="/Home" class="nav-link" id="menu-home">
+                <i class="nav-icon fas fa-home"></i>
+                <p>
+                    1. Trang chủ
+                </p>
+            </a>
+        </li>
+
+        <li class="nav-header" style="padding: 1rem 1rem; color: #17a2b8;">Giảng dạy</li>
+        <li class="nav-item has-treeview">
+            <a href="@Url.Action("Index", "DanhSachDangKies")" data-s="/dsdk" class="nav-link" id="menu-dsdk">
+                <i class="nav-icon fab fa-stack-overflow"></i>
+                <p>
+                    2. Đăng ký khóa học
+                </p>
+            </a>
+        </li>
+        <li class="nav-item has-treeview">
+            <a href="@Url.Action("Index", "Categories")" data-s="/category" class="nav-link" id="menu-category">
+                <i class="nav-icon fas fa-bars"></i>
+                <p>
+                    3. Danh mục
+                </p>
+            </a>
+        </li>
+        <li class="nav-item has-treeview">
+            <a href="@Url.Action("Index", "KhoaHocs")" data-s="/khoahoc" class="nav-link" id="menu-khoahoc">
+                <i class="nav-icon fab fa-stack-overflow"></i>
+                <p>
+                    4. Khoá học
+                </p>
+            </a>
+        </li>
+        <li class="nav-item has-treeview">
+            <a href="/LopHocs" class="nav-link" id="menu-LopHocs">
+                <i class="nav-icon fas fa-spider"></i>
+                <p>
+                    5. Lớp học
+                </p>
+            </a>
+        </li>
+        <li class="nav-item has-treeview">
+            <a href="@Url.Action("Index", "GiaoVien")" class="nav-link" id="menu-giaovien">
+                <i class="nav-icon fas fa-user-astronaut"></i>
+                <p>
+                    6. Giáo viên
+                </p>
+            </a>
+        </li>
+        <li class="nav-item has-treeview">
+            <a href="@Url.Action("Index", "HocVien")" class="nav-link" id="menu-hocvien">
+                <i class="nav-icon fas fa-users-cog"></i>
+                <p>
+                    7. Học viên
+                </p>
+            </a>
+        </li>
+
+        <li class="nav-header" style="padding: 1rem 1rem; color: #17a2b8;">Quản lý người dùng</li>
+
+        <li class="nav-item has-treeview">
+            <a href="@Url.Action("Accounts", "Manage")" class="nav-link" id="menu-manage-account">
+                <i class="nav-icon fas fa-users-cog"></i>
+                <p>
+                    8. Tài khoản
+                </p>
+            </a>
+        </li>
+        <li class="nav-item has-treeview">
+            <a href="@Url.Action("AccountsRoles", "Manage")" class="nav-link" id="menu-account-roles">
+                <i class="nav-icon fas fa-user-lock"></i>
+                <p>
+                    9. Phân quyền
+                </p>
+            </a>
+        </li>
+    </ul>
+</nav>

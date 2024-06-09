@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="~/Content/images/engcenter.png" rel="shortcut icon">
+    <title>English Center Education Admin</title>
+    <meta name="robots" content="noindex" />
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/Content/styles/all.min.css">
+    <!-- Select2 -->
+    <link rel="stylesheet" href="~/Content/css/select2.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="/dist/css/adminlte.min.css">
+    <!-- Toastr -->
+    <link rel="stylesheet" href="/plugins/toastr/toastr.min.css">
+    <!-- Grid MVC -->
+    <link rel="stylesheet" href="~/Content/MvcGrid/mvc-grid.css">
+    <link rel="stylesheet" href="~/Content/Site.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.2/css/buttons.dataTables.min.css">
+    <!-- Google Font: Source Sans Pro -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+    <style>
+        .sidebar::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .sidebar::-webkit-scrollbar-track {
+            background: #fff;
+        }
+
+        /* Handle */
+        .sidebar::-webkit-scrollbar-thumb {
+            background: #000;
+        }
+
+            /* Handle on hover */
+            .sidebar::-webkit-scrollbar-thumb:hover {
+                background: #555;
+            }
+
+        .navbar-dark .navbar-nav .nav-link {
+            color: #868e96;
+        }
+
+        .sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+            border-radius: 8px;
+            margin: 0 10px;
+            background: #00b297;
+        }
+
+        .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+            color: #868e96;
+        }
+    </style>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.4.3.min.js"></script>
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+    @RenderBody()
+    <!-- ./wrapper -->
+    <!-- jQuery -->
+    <script src="/plugins/jquery/jquery.min.js"></script>
+    <!-- jQuery UI 1.11.4 -->
+    <script src="/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+    <script>$.widget.bridge('uibutton', $.ui.button)</script>
+    <!-- Bootstrap 4 -->
+    <script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Toastr -->
+    <script src="/plugins/toastr/toastr.min.js"></script>
+    <!-- Grid MVC -->
+    <script src="~/Scripts/MvcGrid/mvc-grid.js"></script>
+    <!-- Bootbox-->
+    @*<script src="~/Scripts/bootbox.all.min.js"></script>*@
+    <!-- AdminLTE App -->
+    <script src="/dist/js/adminlte.js"></script>
+    <!-- AdminLTE App -->
+    @*<script src="~/Scripts/select2.min.js"></script>*@
+    <!-- datatable -->
+    <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js"></script>
+    <script type="text/javascript" src="~/Content/js/bootstrap-datetimepicker.min.js"></script>
+
+    @RenderSection("scripts", required: false)
+    <script>
+
+        function updateOrderColumn(idTable) {
+            $(`#${idTable} tbody tr`).each(function (index, element) {
+                $(element).find('td:first-child').text(index + 1);
+            });
+
+        }
+        function numberWithCommas(x) {
+            return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }
+        $.fn.loading = function (op = true) {
+            if (op) {
+                $("#ajax-loading").remove();
+                $(this).append("<img id='ajax-loading' src='/Content/Images/loading.gif' style='width: 20px; height: auto;' alt='loading'/>");
+                $(this).prop('disabled', true);
+            } else {
+                $("#ajax-loading").remove();
+                $(this).prop('disabled', false);
+            }
+        };
+
+        $(document).ready(function () {
+            const act = $(`[data-activemenu^="menu-"]`).data("activemenu");
+            const sd = $(`a[id="${act}"`);
+            sd.addClass("active");
+            sd.parents().addClass("active");
+            sd.parents('li').addClass('menu-open');
+            sd.parents().addClass("active");
+            console.log(act);
+
+            if (!act) $("#menu-home").addClass("active");
+
+            if (document.title.trim().indexOf("-") < 5) {
+                document.title = sd.children("p").text() + document.title;
+            }
+            $("#statusStaticText").html('Render: ' + $("#inputCounterTime").val() + ' seconds.');
+        });
+    </script>
+
+    <script>
+        $(".showFilterForm").on('click', function () {
+            $(".filterForm").toggleClass("right_0");
+        });
+
+        $(".hideFilterForm").on('click', function () {
+            $(".filterForm").removeClass("right_0");
+        });
+
+        $(".clearFilter").on('click', function () {
+            $(".filterInput").val("");
+            $(".select2_custom").val(null).trigger("change");
+            $("#filter__form").submit();
+        });
+
+        var formHasChanged = false;
+        var submitted = false;
+
+        window.onbeforeunload = function (event) {
+            if (formHasChanged && !submitted) {
+                event.returnValue = "Unchanges not saved ! R u sure want to quit ?";
+            }
+        };
+
+        $(document).on('change', 'input', function () {
+            formHasChanged = true;
+        });
+
+        $("form").submit(function () {
+            submitted = true;
+        });
+
+        function getParameterByName(name) //courtesy Artem
+        {
+            name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+            var regexS = "[\\?&]" + name + "=([^&#]*)";
+            var regex = new RegExp(regexS);
+            var results = regex.exec(window.location.href);
+            if (results == null)
+                return "";
+            else
+                return decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+    </script>
+</body>
+</html>
